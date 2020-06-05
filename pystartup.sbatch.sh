@@ -1,15 +1,15 @@
 #!/bin/bash
-#SBATCH -N 2                  
-#SBATCH -t 00:30:00                
-#SBATCH -J pystartup               
-#SBATCH -p pbatch                  
+#SBATCH -N 1
+#SBATCH -t 00:30:00
+#SBATCH -J pystartup
+#SBATCH -p pbatch
 
 nnodes=$SLURM_JOB_NUM_NODES
 
 echo $nnodes
 
 # Warmup
-srun -n 1 python3 startup.py
+srun -n 1 python3 pystartup.py
 
 for i in 1 2 4 8 16 32; do
     for j in $(seq 1 10); do
@@ -18,7 +18,7 @@ for i in 1 2 4 8 16 32; do
 
         start=$(date +"%T.%N")
 
-        srun -n $nproc python3 startup.py | tee out.txt
+        srun -n $nproc python3 pystartup.py | tee out.txt
 
         end=$(date +"%T.%N")
 
