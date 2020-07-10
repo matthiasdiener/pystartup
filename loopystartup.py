@@ -70,3 +70,4 @@ if rank == 0:
     print(current_time)
     print('Rank ', rank, '/', comm.size)
     print(sys.version)
+    print(lp.__path__)
