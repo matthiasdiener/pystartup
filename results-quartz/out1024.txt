@@ -1,0 +1,4 @@
+12:03:27.247262
+Rank  0 / 32768
+3.8.3 | packaged by conda-forge | (default, Jun  1 2020, 17:43:00) 
+[GCC 7.5.0]

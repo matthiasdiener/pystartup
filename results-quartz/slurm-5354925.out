@@ -1,0 +1,90 @@
+512
+srun: Warning: can't run 1 processes on 512 nodes, setting nnodes to 1
+00:10:22.457601
+Rank  0 / 1
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+512
+00:10:50.758894
+Rank  0 / 512
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+512
+00:11:00.580313
+Rank  0 / 512
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+1024
+slurmstepd: error: _is_a_lwp: open() /proc/4425/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/2529/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/65957/status failed: No such file or directory
+00:11:10.009749
+Rank  0 / 1024
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+1024
+slurmstepd: error: _is_a_lwp: open() /proc/11997/status failed: No such file or directory
+00:11:20.027389
+Rank  0 / 1024
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+2048
+slurmstepd: error: _is_a_lwp: open() /proc/6132/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/67388/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/71950/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/71951/status failed: No such file or directory
+00:11:35.357832
+Rank  0 / 2048
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+2048
+slurmstepd: error: _is_a_lwp: 1 read() attempts on /proc/27495/status failed: No such process
+slurmstepd: error: _is_a_lwp: open() /proc/70759/status failed: No such file or directory
+00:11:49.899579
+Rank  0 / 2048
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+4096
+slurmstepd: error: _is_a_lwp: open() /proc/35689/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/44512/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/35511/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/65233/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/64195/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/12986/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/46257/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: 1 read() attempts on /proc/14861/status failed: No such process
+00:12:16.399428
+Rank  0 / 4096
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+4096
+slurmstepd: error: _is_a_lwp: open() /proc/45364/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/55110/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/45365/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: 1 read() attempts on /proc/45366/status failed: No such process
+00:12:37.877542
+Rank  0 / 4096
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+8192
+00:13:43.833915
+Rank  0 / 8192
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+8192
+00:15:01.296822
+Rank  0 / 8192
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+16384
+slurmstepd: error: _is_a_lwp: open() /proc/47071/status failed: No such file or directory
+00:17:45.788523
+Rank  0 / 16384
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+16384
+00:20:28.682364
+Rank  0 / 16384
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+Done

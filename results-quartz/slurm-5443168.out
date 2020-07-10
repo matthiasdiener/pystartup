@@ -1,0 +1,145 @@
+1024
+srun: Warning: can't run 1 processes on 1024 nodes, setting nnodes to 1
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+06:40:33.581646
+Rank  0 / 1
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+1024
+06:41:06.701263
+Rank  0 / 1024
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+1024
+slurmstepd: error: _is_a_lwp: 1 read() attempts on /proc/39392/status failed: No such process
+slurmstepd: error: _is_a_lwp: open() /proc/33088/status failed: No such file or directory
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+06:41:20.440212
+Rank  0 / 1024
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+2048
+slurmstepd: error: _is_a_lwp: open() /proc/23628/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/63537/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/63538/status failed: No such file or directory
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+06:41:38.128211
+Rank  0 / 2048
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+2048
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+06:41:54.312467
+Rank  0 / 2048
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+4096
+slurmstepd: error: _is_a_lwp: open() /proc/58158/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/60371/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/3338/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/71753/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/11589/status failed: No such file or directory
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+06:42:17.969500
+Rank  0 / 4096
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+4096
+slurmstepd: error: _is_a_lwp: open() /proc/58487/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/20035/status failed: No such file or directory
+slurmstepd: error: _is_a_lwp: open() /proc/41000/status failed: No such file or directory
+06:42:50.058101
+Rank  0 / 4096
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+8192
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+06:43:38.429763
+Rank  0 / 8192
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+8192
+06:44:37.936704
+Rank  0 / 8192
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+16384
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+06:47:27.850325
+Rank  0 / 16384
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+16384
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+06:50:14.727214
+Rank  0 / 16384
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+32768
+06:56:07.746543
+Rank  0 / 32768
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+32768
+07:02:11.352441
+Rank  0 / 32768
+3.7.2 (default, Feb 26 2019, 08:59:10) 
+[GCC 4.9.3]
+dagrt-2019.4-py3-none-any.whl/dagrt/__init__.py
+grudge-2015.1-py3-none-any.whl/grudge/__init__.py
+loo.py-2019.1-py3-none-any.whl/loopy/__init__.py
+meshmode-2016.1-py3-none-any.whl/meshmode/__init__.py
+leap-2019.5-py3-none-any.whl/leap/__init__.py
+Done
